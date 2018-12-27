@@ -1,0 +1,18 @@
+body{
+  background: url('../watch.jpg') no-repeat center center fixed;
+  background-size:cover;
+  color: white;
+
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+  font-weight: bold;
+}
+
+.hero{
+  font-family: 'Fjalla One', sans-serif;
+}

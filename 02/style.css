@@ -1,0 +1,143 @@
+
+body{
+  color: #fff;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+/* .color{
+  background-color: blue;
+  height: 80vh;
+} */
+
+/* xs */
+/* @media(max-width:575px){
+  .color{
+    background-color: green;
+    height: 80vh;
+  }
+} */
+
+/* sm */
+/* @media(min-width:576px) and (max-width:767px){
+  .color{
+    background-color: orange;
+    height: 80vh;
+  }
+} */
+
+/* md */
+/* @media(min-width:768px) and (max-width:991px){
+  .color{
+    background-color: lightgreen;
+    height: 80vh;
+  }
+} */
+
+/* lg */
+/* @media(min-width:992px) and (max-width:1199px){
+  .color{
+    background-color: red;
+    height: 80vh;
+  }
+} */
+
+/* xl */
+/* @media(min-width:1200px){
+  .color{
+    background-color: black;
+    height: 80vh;
+  }
+} */
+/* ...................................................GRID CSS  START HERE........................................ */
+/* .container{
+  background-color: #a1a1a1;
+  height: 100vh;
+
+
+}
+
+
+
+.col{
+  background-color: green;
+  height: 30vh;
+  border: 1px solid white;
+}
+
+.col-two{
+  background-color: blue;
+  height: 30vh;
+  border:1px solid white;
+} */
+/* .............................................FLEX CSS START HERE................................................ */
+
+/* .flex-container{
+  background-color: #2f3640;
+  height: 100vh;
+
+}
+
+
+.color-one{
+  border:1px solid white;
+  background-color: darkblue;
+  height: 30vh;
+}
+
+.color-two{
+  border: 1px solid white;
+  background-color: darkgreen;
+  height: 30vh;
+}
+
+.row-border{
+  border:1px solid black;
+  height:50vh;
+  background-color: black;
+} */
+
+/* .............................................flex2 start here................................................. */
+/* .container-color-2{
+  background-color: #2f3640;
+  height:100vh;
+}*/
+
+
+/* .color-1{
+  background-color: darkblue;
+
+}
+
+.color-2{
+  background-color: darkgreen;
+
+
+} */
+
+
+
+
+
+/* .............................................flex3 start here................................................. */
+.flex-3-container{
+  background-color: #2f3640;
+  height: 100vh;
+}
+
+.color-1{
+  background-color: darkblue;
+
+}
+
+.color-2{
+  background-color: darkgreen;
+
+
+}
+
+
+.color-3{
+
+  background-color: red;
+}

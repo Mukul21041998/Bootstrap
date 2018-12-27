@@ -1,0 +1,18 @@
+body{
+  background: url(wallpaper-1492818_1280.jpg) no-repeat center center fixed;
+  background-size: cover;
+  color: #fff;
+  font-weight: bold;
+
+}
+
+.row-height{
+  /* border:1px solid red; */
+  height: 100vh;
+}
+
+.col-style{
+  border: 1px solid white;
+  background:url(desktop-3246124_640.jpg);
+
+}
